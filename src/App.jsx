@@ -25,6 +25,9 @@ function App() {
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
       </div>
+      <div className="min-h-screen flex items-center justify-center bg-gradient-to-r from-purple-500 to-pink-500 text-white text-3x1">
+        Tailwind is working!
+      </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
